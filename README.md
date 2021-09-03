@@ -1,2 +1,2 @@
 # BusTracking
-Bus Map Tracker needs much more customization.  Attribution to MIT xpro Course.
+Bus Map Tracker for stops between MIT and Harvard with json and api.  Attribution to MIT xpro Course.
